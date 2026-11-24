@@ -104,7 +104,7 @@ Abrí un *issue* o un *pull request*. Para sumar una regla de calidad, agregala 
 ## 📬 Contacto
 
 **Estela Oviedo** — Data Analytics · Automatización · Python · IA
-[LinkedIn](https://www.linkedin.com/in/estela-oviedo) · [GitHub](https://github.com/Rumenco1221)
+[LinkedIn](https://www.linkedin.com/in/estela-oviedo-cortez-796303228) · [GitHub](https://github.com/Rumenco1221)
 
 ---
 <sub>Licencia MIT · Datos de ejemplo sintéticos.</sub>
