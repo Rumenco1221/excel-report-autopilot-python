@@ -53,7 +53,7 @@ INFO | Reporte html  → outputs/resumen_email_20261123_2249.html
 ## ⚙️ Instalación
 
 ```bash
-git clone https://github.com/estela-oviedo/excel-report-autopilot-python.git
+git clone https://github.com/Rumenco1221/excel-report-autopilot-python.git
 cd excel-report-autopilot-python
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
@@ -104,7 +104,7 @@ Abrí un *issue* o un *pull request*. Para sumar una regla de calidad, agregala 
 ## 📬 Contacto
 
 **Estela Oviedo** — Data Analytics · Automatización · Python · IA
-[LinkedIn](https://www.linkedin.com/in/estela-oviedo) · [GitHub](https://github.com/estela-oviedo)
+[LinkedIn](https://www.linkedin.com/in/estela-oviedo) · [GitHub](https://github.com/Rumenco1221)
 
 ---
 <sub>Licencia MIT · Datos de ejemplo sintéticos.</sub>
